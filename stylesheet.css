@@ -37,7 +37,7 @@ a	{
  nav h3 {
 	 	list-style-type: none;
 	    margin: 0;
-	    padding: 0 0 0 10px;
+	    padding: 10px 0 0 0;
 	    font-family: avenir, sans-serif;
 	    font-size: 0.9em;
 	    line-height: 1.4;
