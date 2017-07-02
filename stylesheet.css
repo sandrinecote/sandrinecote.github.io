@@ -23,13 +23,14 @@ a	{
  }
 
  nav h1 {
-	 	font-family: avenir, sans-serif;
+		font-family: avenir, sans-serif;
 	    font-size: 2.5em;
 	    font-style: oblique;
 	    font-weight: 900;
 	    margin-top: 0%;
 	    line-height: 1.2;
 	    margin-bottom: 0%;
+	 	color:black;
  }
 
  nav h3 {
@@ -40,6 +41,7 @@ a	{
 	    font-size: 0.9em;
 	    line-height: 1.4;
 	    font-weight: 300;
+	 color:black;
  }
 
  #droite {
