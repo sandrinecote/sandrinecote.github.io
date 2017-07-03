@@ -1,27 +1,28 @@
-body, html {
-    	height: 100%;
+header	{
+	background-image: url("https://cdn.pixabay.com/photo/2017/04/08/11/07/nerve-cell-2213009_960_720.jpg");
+    	background-size: cover;
+    	background-position: center;
+    	min-height: 100vh;
+    	padding: 0;
     	margin: 0;
 }
 
-.bg {
-    /* The image used */
-    background-image: url("https://cdn.pixabay.com/photo/2017/04/08/11/07/nerve-cell-2213009_960_720.jpg");
-    /* Full height */
-    height: 100%; 
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+#subhead {
+    	color: white;
+    	width: 40%;
+    	padding: 14% 30% 5% 30%;
+    	margin: 0;
+    	font-size: 1em;
+    	text-align: justify;
+    	line-height: 1.4;
 }
 
-h1	{
-	color:#ff0000;
-	font-family:avenir, sans-serif;
-	font-size: 2.5em;
-	font-style: oblique;
-	font-weight: 900;
-	text-align: center;
-    	margin: 0;
-    	padding: 0 0 2% 0;
-    	border-bottom: 1px white solid;
+h1 {
+    font-family: Avenir, serif;
+    font-size: 4em;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+    padding: 0 0 2% 0;
+    border-bottom: 1px white solid;
 }
