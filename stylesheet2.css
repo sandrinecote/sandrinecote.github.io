@@ -9,6 +9,7 @@ body, html {
 
     /* Full height */
     height: 100%; 
+    position: absolute;
 
     /* Center and scale the image nicely */
     background-position: center;
@@ -16,8 +17,8 @@ body, html {
     background-size: cover;
 }
 
-h1 {
-    color:black;
+#text {
+    color:white;
     font-family: Avenir, serif;
     font-size: 4em;
     font-weight: 700;
@@ -25,4 +26,7 @@ h1 {
     text-align: center;
     margin: 0;
     padding: 0 0 2% 0;
+    position: absolute;
+    left: 150px;
+    top: 350px;
 }
